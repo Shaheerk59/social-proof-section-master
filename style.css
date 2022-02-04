@@ -215,7 +215,7 @@ body footer .comment-section .comment {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
-    gap: 1rem;
+    gap: 0.5rem;
   }
   body .top main .reviews-container .reviews:nth-of-type(2) {
     position: relative;
