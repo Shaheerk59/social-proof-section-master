@@ -17,3 +17,16 @@
   --Light-Grayish-Magenta: hsl(300, 24%, 96%);
   --White: hsl(0, 0%, 100%);
 }
+
+body {
+  background-image: url(images/bg-pattern-top-desktop.svg),
+    url(images/bg-pattern-bottom-mobile.svg);
+  padding: 5rem 2rem;
+
+  header {
+    .header-h1 {
+    }
+    .header-para {
+    }
+  }
+}
